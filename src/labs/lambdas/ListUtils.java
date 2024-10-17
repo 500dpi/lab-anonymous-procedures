@@ -13,8 +13,8 @@ import java.util.List;
  * experiment in working with anonymous procedures.
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
- * @author Your Name Here
+ * @author Sara Jaljaa
+ * @author Sam Schmidt
  */
 public class ListUtils {
 
